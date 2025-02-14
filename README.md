@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/00e014b9-f47d-4e87-8ba8-3048ddec68e3)
 # Quiz
 A simple Quiz game project in JAVA
 
@@ -7,3 +8,7 @@ To run this code, 1.) Download the .java file and save it in a folder. 2.) This 
 
 Some JAVA IDE that can be used other than JDK, Blue J, Eclipse, InteliJ, IDEA Netbeans.
 ![Screenshot 2025-02-14 223021](https://github.com/user-attachments/assets/acf5feb7-5a49-4401-8dea-43c97a49f903)
+![image](https://github.com/user-attachments/assets/583af727-a0c7-4221-ae80-1a43618f34b7)
+![image](https://github.com/user-attachments/assets/34ea45c8-bd95-41b8-9b64-976adf9a13ac)
+![image](https://github.com/user-attachments/assets/f09bd717-259f-4c6b-8b44-deae94a567e9)
+![image](https://github.com/user-attachments/assets/f8abf83c-dcb5-45ab-85d3-526735a16ee2)
