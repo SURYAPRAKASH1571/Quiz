@@ -6,3 +6,4 @@ A simpple quiz game in java that has multiple choice questions and one correct a
 To run this code, 1.) Download the .java file and save it in a folder. 2.) This code will run in any IDE or even in JDK (Java Development Kit) via the command prompt. 3.) To run in IDE, simply copy paste the code then compile and then run. 4.) To run in JDK, copy paste the code in notepad then save the file as a .java file, open command prompt, go to the location where the file is(Eg: cd Desktop etc) type in 'javac Quiz.java' this will compile the file and check for errors, after this step type in java 'Quiz.java.' This will run the code.
 
 Some JAVA IDE that can be used other than JDK, Blue J, Eclipse, InteliJ, IDEA Netbeans.
+![Screenshot 2025-02-14 223021](https://github.com/user-attachments/assets/acf5feb7-5a49-4401-8dea-43c97a49f903)
